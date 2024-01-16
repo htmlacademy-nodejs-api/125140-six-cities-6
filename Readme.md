@@ -1,7 +1,7 @@
 # Личный проект «Шесть городов»
 
-* Студент: [Evgenii Frolov](https://up.htmlacademy.ru/nodejs-api/6/user/125140).
-* Наставник: `Неизвестно`.
+- Студент: [Evgenii Frolov](https://up.htmlacademy.ru/nodejs-api/6/user/125140).
+- Наставник: [Константин Ильин](https://htmlacademy.ru/profile/id2374827).
 
 ---
 
